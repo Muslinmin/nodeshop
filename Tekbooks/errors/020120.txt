@@ -1,0 +1,8 @@
+VError: Problem rendering dust template "C:\Users\lordm\Desktop\Programming Projects\node js\nodeshop\Tekbooks\public\templates\manage\books\index.dust": The "path" argument must be of type string. Received type object
+    at Stub.callback (C:\Users\lordm\Desktop\Programming Projects\node js\nodeshop\Tekbooks\node_modules\adaro\lib\engine.js:167:30)
+    at Stub.flush (C:\Users\lordm\Desktop\Programming Projects\node js\nodeshop\Tekbooks\node_modules\dustjs-linkedin\lib\dust.js:564:14)
+    at Chunk.setError (C:\Users\lordm\Desktop\Programming Projects\node js\nodeshop\Tekbooks\node_modules\dustjs-linkedin\lib\dust.js:1051:15)
+    at C:\Users\lordm\Desktop\Programming Projects\node js\nodeshop\Tekbooks\node_modules\dust-usecontent-helper\index.js:25:27
+    at C:\Users\lordm\Desktop\Programming Projects\node js\nodeshop\Tekbooks\node_modules\dust-makara-helpers\index.js:50:21
+    at C:\Users\lordm\Desktop\Programming Projects\node js\nodeshop\Tekbooks\node_modules\iferr\index.js:13:50
+    at FSReqWrap.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:53:3)
