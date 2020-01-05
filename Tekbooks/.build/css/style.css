@@ -42,3 +42,7 @@ footer{
   padding: 10px;
   justify-content: space-around;
 }
+
+h2 span{
+  font-size: 18px;
+}
